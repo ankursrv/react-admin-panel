@@ -1,0 +1,12 @@
+body{
+    font-weight: 400;
+}
+.active {
+    background-color: rgba(159, 162, 180, 8%);
+    color: rgba(221, 226, 255, 1) !important;
+    border-left: 3px solid #DDE2FF;
+    
+}
+.active img{filter: brightness(0) saturate(100%) invert(92%) sepia(52%) saturate(6369%) hue-rotate(179deg) brightness(99%) contrast(109%); opacity: 1;}
+
+.filter-arrow{filter: invert(49%) sepia(3%) saturate(2817%) hue-rotate(183deg) brightness(87%) contrast(90%);}
